@@ -1,14 +1,16 @@
 .container{
-propriedade :valor;
-
-
-
+ propriedade:valor;
 
 }
 
 h1{
-propriedade : valor;
+ propriedade: valor;
 
+}
+
+.perfil img{
+    width: 2px;
+    height: 2px;
 }
 
 .links{
